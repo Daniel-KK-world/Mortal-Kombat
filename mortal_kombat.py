@@ -3,8 +3,13 @@ import pygame
 
 class Fighter:
     def __init__(self):
-        pass
-    
+        self.name = name
+        self.controls = controls 
+        self.x = x 
+        self.y = y 
+        
+        self.health = 100 
+          
     def move():
         pass 
     
